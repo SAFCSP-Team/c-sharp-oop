@@ -9,7 +9,8 @@ By the end of this course, you will be able to,
 
 - Understand the fundamentals of Object-Oriented Programming (OOP).
 - Learn how to create and manage classes and objects.
-- Understand C# features such as managed and unsafe code.
+- Understand the difference between abstract classes and interfaces.
+
 
 
 # Table of content
