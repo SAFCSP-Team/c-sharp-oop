@@ -5,7 +5,7 @@ This course covers the object-oriented programming (OOP) concepts in the C# lang
 
 
 # Objective
-By the end of this course, you will able to,
+By the end of this course, you will be able to,
 
 - Understand the fundamentals of Object-Oriented Programming (OOP).
 - Learn how to create and manage classes and objects.
@@ -13,9 +13,8 @@ By the end of this course, you will able to,
 
 
 # Table of content
-1. [Class and Object (Encapsulation)]()
-2. [Inheritance]()
-3. [Polymorphism]()
-4. [Abstraction]()
-5. [Interface]()
-6. [C# Features]()
+1. [Class and Object](https://github.com/SAFCSP-Team/c-sharp-oop/blob/main/content/01.class-and-object.md)
+2. [Inheritance](https://github.com/SAFCSP-Team/c-sharp-oop/blob/main/content/02.inheritance.md)
+3. [Polymorphism](https://github.com/SAFCSP-Team/c-sharp-oop/blob/main/content/03.polymorphism.md)
+4. [Abstraction](https://github.com/SAFCSP-Team/c-sharp-oop/blob/main/content/04.abstraction.md)
+5. Interface
