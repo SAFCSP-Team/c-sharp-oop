@@ -18,4 +18,4 @@ By the end of this course, you will be able to,
 2. [Inheritance](https://github.com/SAFCSP-Team/c-sharp-oop/blob/main/content/02.inheritance.md)
 3. [Polymorphism](https://github.com/SAFCSP-Team/c-sharp-oop/blob/main/content/03.polymorphism.md)
 4. [Abstraction](https://github.com/SAFCSP-Team/c-sharp-oop/blob/main/content/04.abstraction.md)
-5. Interface
+5. [Interface](https://github.com/SAFCSP-Team/c-sharp-oop/blob/main/content/05.nterface.md)
